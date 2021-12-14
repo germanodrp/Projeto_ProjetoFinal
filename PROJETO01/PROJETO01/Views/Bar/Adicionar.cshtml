@@ -1,0 +1,68 @@
+﻿@model PROJETO01.Modelos.Bar
+
+<form asp-controller="Bar" asp-action="AdicionarConfirmacao" method="post">
+    <div class="mb-3">
+        <label for="BarID" class="form-label">Id:</label>
+        <input asp-for="BarID" type="text" class="form-control" placeholder="Digite seu ID " />
+    </div>
+    <div class="mb-3">
+        <label for="cnpj" class="form-label">Cnpj:</label>
+        <input asp-for="cnpj" type="text" class="form-control" placeholder="Digite seu cnpj" />
+    </div>
+    <div class="mb-3">
+        <label for="nome" class="form-label">Nome:</label>
+        <input asp-for="nome" type="text" class="form-control" placeholder="Digite seu Nome Fantasia" />
+    </div>
+    <div class="mb-3">
+        <label for="CEP" class="form-label">CEP:</label>
+        <input asp-for="CEP" type="text" class="form-control" placeholder="Digite seu CEP" />
+    </div>
+    <div class="mb-3">
+        <label for="restricao" class="form-label">Restrição</label>
+        <input asp-for="restricao" type="text" class="form-control" placeholder="Digite a restricao" />
+    </div>
+    <div class="mb-3">
+        <label for="horario" class="form-label">horario</label>
+        <input asp-for="horario" type="text" class="form-control" placeholder="Digite Horario de funcionamento" />
+    </div>
+    <div class="mb-3">
+        <label for="capacidade" class="form-label">Capacidade</label>
+        <input asp-for="capacidade" type="text" class="form-control" placeholder="Digite sua capacidade" />
+    </div>
+    <div class="mb-3">
+        <label for="localizacao" class="form-label">Localização</label>
+        <input asp-for="localizacao" type="text" class="form-control" placeholder="Digite sua Localização" />
+    </div>
+    <div class="mb-3">
+        <label for="numero" class="form-label">numero</label>
+        <input asp-for="numero" type="text" class="form-control" placeholder="Digite seu numero " />
+    </div>
+
+    <hr />
+
+    <a href="#" class="btn btn-secondary" onclick="javascript:history.back()">
+        VOLTAR
+    </a>
+
+    <button type="submit" class="btn btn-success float-right">
+        SALVAR
+    </button>
+
+</form>
+
+
+      public int BarID { get; set; }
+        public int cnpj { get; set; }
+
+        public  string nome{ get; set; }
+        public  string CEP{ get; set; }
+
+        public string  restricao { get; set; }
+
+        public DateTime horario { get; set; }
+
+        public int capacidade { get; set; }
+
+        public string localizacao { get; set; }
+
+        public string numero { get; set; }

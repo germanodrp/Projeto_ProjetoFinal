@@ -1,0 +1,60 @@
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.deps.json
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.AssemblyReference.cache
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfoInputs.cache
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfo.cs
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\lojs\Downloads\PROJETO01_61-637738205477483209\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.deps.json
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.AssemblyReference.cache
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfoInputs.cache
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfo.cs
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\040160\Downloads\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.deps.json
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.AssemblyReference.cache
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfoInputs.cache
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfo.cs
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\lojs\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.deps.json
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.AssemblyReference.cache
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfoInputs.cache
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfo.cs
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\040160\Downloads\PROJETO-VERSAOFINAL\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.deps.json
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.AssemblyReference.cache
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfoInputs.cache
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfo.cs
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\lojs\Downloads\PROJETO01\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.deps.json
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\bin\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.AssemblyReference.cache
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfoInputs.cache
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.AssemblyInfo.cs
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.dll
+C:\Users\040160\Downloads\PROJETO01 (3)\PROJETO01\PROJETO01.Modelos\obj\Debug\netcoreapp3.1\PROJETO01.Modelos.pdb

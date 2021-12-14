@@ -1,0 +1,51 @@
+﻿@model List<PROJETO01.Modelos.Bar>
+<div class="container-fluid " style= "border:groove; color:thick;background-color:white">
+    <br />
+<h3>
+    CADASTRO DE BARES
+    <a class="btn btn-sm btn-dark float-right" href="/Bar/Adicionar">
+        + ADICIONAR
+    </a>
+</h3>
+
+<table class="table table-hover ">
+    <thead>
+        <tr>
+            <th>BarID</th>
+            <th>cnpj</th>
+            <th>nome</th>
+            <th>CEP</th>
+            <th>restricao</th>
+            <th>horario</th>
+            <th>capacidade</th>
+            <th>localizacao</th>
+            <th>numero</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.BarID</td>
+                <td>@item.cnpj</td>
+                <td>@item.nome</td>
+                <td>@item.CEP</td>
+                <td>@item.restricao</td>
+                <td>@item.horario</td>
+                <td>@item.capacidade</td>
+                <td>@item.localizacao</td>
+                <td>@item.numero</td>
+
+                <td>
+                    <a href="/Bar/Editar?BarID=@item.BarID" class="btn btn-sm btn-warning">
+                        Editar
+                    </a>
+                    <a href="/Bar/Excluir?BarID=@item.BarID" class="btn btn-sm btn-danger">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+  </div>

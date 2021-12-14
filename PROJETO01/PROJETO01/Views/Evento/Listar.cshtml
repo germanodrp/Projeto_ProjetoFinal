@@ -1,0 +1,42 @@
+﻿@model List<PROJETO01.Modelos.evento>
+<div class="container-fluid " style= "border:groove; color:thick;background-color:white">
+    <br />
+<h3>
+    CADASTRO DE EVENTOS
+    <a class="btn btn-sm btn-dark float-right" href="/evento/Adicionar">
+        + ADICIONAR
+    </a>
+</h3>
+
+<table class="table table-hover ">
+    <thead>
+        <tr>
+            <th>EventoID</th>
+            <th>nome</th>
+            <th>taxa</th>
+            <th>horario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.EventoID</td>
+                <td>@item.nome</td>
+                <td>@item.taxa</td>
+                  <td>@item.horario</td>
+                <td>
+                    <a href="/evento/Editar?uf=@item.EventoID" class="btn btn-sm btn-warning">
+                        Editar
+                    </a>
+                    <a href="/evento/Excluir?uf=@item.EventoID" class="btn btn-sm btn-danger">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+  </div>
+     

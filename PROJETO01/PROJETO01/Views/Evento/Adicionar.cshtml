@@ -1,0 +1,31 @@
+﻿@model PROJETO01.Modelos.evento
+
+    <form asp-controller="evento" asp-action="AdicionarConfirmacao" method="post">
+        <div class="mb-3">
+            <label for="nome" class="form-label">Nome:</label>
+            <input asp-for="nome" type="text" class="form-control" placeholder="Digite seu nome do evento" />
+        </div>
+        <div class="mb-3">
+            <label for="Taxa" class="form-label">Taxa:</label>
+            <input asp-for="taxa" type="text" class="form-control" placeholder="Digite a taxa" />
+        </div>
+          <div class="mb-3">
+            <label for="horario" class="form-label">Horario:</label>
+            <input asp-for="horario" type="text" class="form-control" placeholder="Digite o horario" />
+        </div>
+         <div class="mb-3">
+            <label for="EventoID" class="form-label">EventoID:</label>
+            <input asp-for="EventoID" type="text" class="form-control" placeholder="Digite o ID do Evento" />
+        </div>
+         
+
+        <a href="#" class="btn btn-secondary" onclick="javascript:history.back()">
+            VOLTAR
+        </a>
+
+        <button type="submit" class="btn btn-success float-right">
+            SALVAR
+        </button>
+
+    </form>
+      

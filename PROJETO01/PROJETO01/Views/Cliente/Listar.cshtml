@@ -1,0 +1,48 @@
+﻿
+@model List<PROJETO01.Modelos.Cliente>
+<div class="container-fluid " style= "border:groove; color:thick;background-color:white">
+    <br />
+<h3>
+    CADASTRO DE CLIENTES
+    <a class="btn btn-sm btn-dark float-right" href="/Cliente/Adicionar">
+        + ADICIONAR
+    </a>
+</h3>
+
+<table class="table table-hover ">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Telefone</th>
+            <th>Cpf</th>
+            <th>Email</th>
+            <th>DataNascimento</th>
+            <th>ClienteID</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                
+                <td>@item.Nome</td>
+                <td>@item.Telefone</td>
+                <td>@item.Cpf</td>
+                <td>@item.Email</td>
+                <td>@item.DataNascimento</td>
+                <td>@item.ClienteID</td>
+
+                <td>
+                    <a href="/Cliente/Editar?ClienteID=@item.ClienteID" class="btn btn-sm btn-warning">
+                        Editar
+                    </a>
+                    <a href="/Cliente/Excluir?ClienteID=@item.ClienteID" class="btn btn-sm btn-danger">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+</div>

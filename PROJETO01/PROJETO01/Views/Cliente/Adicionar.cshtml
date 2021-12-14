@@ -1,0 +1,40 @@
+﻿@model PROJETO01.Modelos.Cliente
+
+    <form asp-controller="Cliente" asp-action="AdicionarConfirmacao" method="post">
+        <div class="mb-3">
+            <label for="Nome" class="form-label">Nome:</label>
+            <input asp-for="Nome" type="text" class="form-control" placeholder="Digite seu nome " />
+        </div>
+        <div class="mb-3">
+            <label for="Telefone" class="form-label">Telefone:</label>
+            <input asp-for="Telefone" type="text" class="form-control" placeholder="Digite seu telefone" />
+        </div>
+          <div class="mb-3">
+            <label for="Email" class="form-label">Email:</label>
+            <input asp-for="Email" type="text" class="form-control" placeholder="Digite seu Email" />
+        </div>
+          <div class="mb-3">
+            <label for="Cpf" class="form-label">Cpf:</label>
+            <input asp-for="Cpf" type="text" class="form-control" placeholder="Digite seu Cpf"/>
+        </div>
+          <div class="mb-3">
+            <label for="DataNascimento" class="form-label">DataNascimento:</label>
+            <input asp-for="DataNascimento" type="text" class="form-control" placeholder="Digite sua data de nascimento" />
+        </div>
+          <div class="mb-3">
+            <label for="ClienteId" class="form-label">ClienteId:</label>
+            <input asp-for="ClienteID" type="text" class="form-control" placeholder="Digite seu id" />
+        </div>
+        <hr />
+
+        <a href="#" class="btn btn-secondary" onclick="javascript:history.back()">
+            VOLTAR
+        </a>
+
+        <button type="submit" class="btn btn-success float-right">
+            SALVAR
+        </button>
+
+    </form>
+
+      
